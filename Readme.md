@@ -18,7 +18,8 @@ A simple and user-friendly **Student Record Management System** built using **Py
 
 ## 📸 Screenshots
 
-*(Add your screenshots here showing the GUI and features in action)*
+![image](https://github.com/user-attachments/assets/021e5b26-9160-46b8-8c12-4a8935ce1202)
+
 
 ---
 
@@ -51,11 +52,8 @@ pip install mysql-connector-python
 ```bash
 student-record-system/
 │
-├── main.py                # Main application file
-├── db_config.py           # Database connection and setup
-├── requirements.txt       # Python dependencies
+├── app.py                # Main application file
 ├── README.md              # Project documentation
-└── assets/                # Images, logos (optional)
 ```
 
 ---
