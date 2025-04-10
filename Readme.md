@@ -1,4 +1,4 @@
-##🎓 Student Record Management System ##
+#🎓 Student Record Management System #
 
 A simple and user-friendly **Student Record Management System** built using **Python (Tkinter GUI)** and **MySQL**. This application allows users to manage student records efficiently with a graphical user interface, enabling **CRUD operations** (Create, Read, Update, Delete).
 
@@ -119,5 +119,3 @@ Contributions are welcome! Feel free to fork this repo, raise issues, or submit 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you want me to tailor this to a different tech stack or include the actual SQL file/script too!
